@@ -1,0 +1,37 @@
+.head{
+    background-color: #a4ff62;
+    
+}
+.f{
+    background-color: darkgray;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: x-large;
+
+}
+.para{
+    padding-left: 10vh;
+
+}
+.read{
+    font-size: x-large;
+}
+.mode{
+    padding-left: 10vh;
+    font-size:large;
+    
+}
+.code{
+    padding-left: 10vh;
+    font-size: large;
+}
+.dode{
+    padding-left: 10vh;
+    font-size: x-large;
+
+}
+.cert{
+    padding-left: 10vh;
+    font-size: large;
+
+}
